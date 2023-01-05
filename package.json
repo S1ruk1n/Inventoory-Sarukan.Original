@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "inventory",
+  "version": "1.0.0",
+  "description": "Verwaltung von großen und kleinen Dingen",
+  "main": "inventory.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node inventory.js"
+  },
+  "authors": "Manuel Fischer, Object9050",
+  "license": "MIT"
+}
